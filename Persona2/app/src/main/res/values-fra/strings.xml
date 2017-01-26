@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Personne</string>
+    <string name="nombre">Nom</string>
+    <string name="peso">Poids en kilogrammes</string>
+    <string name="estatura"></string>
+    <string name="ejercicio">Hauteur en metres</string>
+    <string name="hombre">Homme</string>
+    <string name="mujer">Femme</string>
+    <string name="boton1">Afficher les données de la personne</string>
+    <string name="resultado">Résultat</string>
+    <string name="boton2">Propre</string>
+</resources>
